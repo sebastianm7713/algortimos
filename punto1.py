@@ -1,4 +1,4 @@
-n# desarrollar un algoritmo que lea el numero, en caso que sea negativo lo imprima junto con su positivo
+# desarrollar un algoritmo que lea el numero, en caso que sea negativo lo imprima junto con su positivo
 
 numero = int(input("digite el numero: "))
 if numero < 0:
